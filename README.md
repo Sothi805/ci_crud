@@ -1,0 +1,1 @@
+# ci_school_management
